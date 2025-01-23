@@ -69,8 +69,9 @@ int main(void) {
 
         //check for built-in commands
         int builtin_status = execute_builtin(args);
-        if (builtin_status != 2) {
-            status = builtin_status;
+        if (builtin_status == 0) {
+            break;
+        } else if (builtin_status == 1) {
             continue;
         }
 
