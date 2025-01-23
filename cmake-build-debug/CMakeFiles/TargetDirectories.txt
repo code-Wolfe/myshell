@@ -1,0 +1,3 @@
+/Users/maxcole/CLionProjects/myshell/cmake-build-debug/CMakeFiles/myshell.dir
+/Users/maxcole/CLionProjects/myshell/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maxcole/CLionProjects/myshell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
